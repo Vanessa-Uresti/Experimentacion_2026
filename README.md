@@ -11,6 +11,11 @@ Contenido del curso 2026
 + primera sincronizacion 
 
 
+
+#########################################################
+
+#Sesión 2
+
 # Vanessa M Uresti Rdidriguez 
 # Matricula: 2076842
 # Maestria en Ciencias Forestales 
