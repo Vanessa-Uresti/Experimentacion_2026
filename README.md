@@ -64,4 +64,4 @@ hist(IE$IE,
      ylim = c(0,12),
      main = "",
      ylab ="Frecuencia",
-     xlab = "Variable IE")
+     xlab = "Variable IE") 
