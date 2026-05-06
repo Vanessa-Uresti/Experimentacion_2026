@@ -95,4 +95,3 @@ plot(datos$Produccion_trigo, datos$Precio_harina,
      ylab ="Precio harina (Euros",
      pch = 19,
      cex = 1.2)
-abline(fit.lm, col = "red")
