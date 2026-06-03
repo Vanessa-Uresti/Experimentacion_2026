@@ -56,3 +56,6 @@
 +	Preparación de datos para prueba t de muestras dependientes.
 
 ----------------------------------------------------------------------------------------------
+
+
+![Figura 1. Gráfica de actividades](github.png)
