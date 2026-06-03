@@ -6,7 +6,7 @@
 
 ## Contenido del curso 2026
 
-**sesión**: 1 26/01/2026
+# sesión 1. 26/01/2026
 
 + crear cuenta de github
 + crear repositorio del curso
